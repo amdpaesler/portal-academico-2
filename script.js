@@ -6,6 +6,7 @@ function consultarDisciplinas() {
         "Engenharia de Software<br>" +
         "Banco de Dados";
         "Computação em Nuvem";
+    
 }
 
 function mostrarMedia() {
