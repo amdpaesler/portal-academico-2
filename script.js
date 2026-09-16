@@ -5,6 +5,7 @@ function consultarDisciplinas() {
         "DevOps<br>" +
         "Engenharia de Software<br>" +
         "Banco de Dados";
+        "Computação em Nuvem";
 }
 
 function mostrarMedia() {
